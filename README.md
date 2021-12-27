@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ymherklotz&count_private=true&hide_border=true&show_icons=true&theme=vue&include_all_commits=true&hide_title=true" /></p>
+More on [sourcehut](https://sr.ht/~ymherklotz).
 
 <p align="center">
 <a href="https://yannherklotz.com"><img align="center" src="https://img.shields.io/badge/blog-yannherklotz.com-00c266" /></a>
